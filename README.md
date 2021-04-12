@@ -1,2 +1,2 @@
-# C-with-WinForms-Image-Editor
+# C#-with-WinForms-Image-Editor
 Editor app for image processing
